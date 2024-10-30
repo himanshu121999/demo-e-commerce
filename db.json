@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "_id": "1",
+      "productName": "Product 1",
+      "price": 100,
+      "description": "This is product 1",
+      "imageUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/28727814/2024/4/6/c19682d1-9d4c-4d38-9451-45331bab81851712384125011ManiacMenStripedV-NeckDrop-ShoulderSleevesPocketsT-shirt1.jpg"
+    },
+    {
+      "_id": "2",
+      "productName": "Product 2",
+      "price": 150,
+      "description": "This is product 2",
+      "imageUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19651156/2022/8/25/627b563d-a3da-438d-990f-8a1398016f571661394760567SPORTOMenYellowT-shirt1.jpg"
+    },
+    {
+      "_id": "3",
+      "productName": "Product 3",
+      "price": 200,
+      "description": "This is product 3",
+      "imageUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/30427622/2024/9/19/27cb8133-9b54-4c64-ada7-a1d1556f3b5f1726742429296-US-Polo-Assn-Polo-Collar-Pure-Cotton-Slim-Fit-T-shirt-143172-1.jpg"
+    },
+    {
+      "_id": "4",
+      "productName": "Product 1",
+      "price": 100,
+      "description": "This is product 1",
+      "imageUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/28727814/2024/4/6/c19682d1-9d4c-4d38-9451-45331bab81851712384125011ManiacMenStripedV-NeckDrop-ShoulderSleevesPocketsT-shirt1.jpg"
+    },
+    {
+      "_id": "5",
+      "productName": "Product 2",
+      "price": 150,
+      "description": "This is product 2",
+      "imageUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19651156/2022/8/25/627b563d-a3da-438d-990f-8a1398016f571661394760567SPORTOMenYellowT-shirt1.jpg"
+    },
+    {
+      "_id": "6",
+      "productName": "Product 3",
+      "price": 200,
+      "description": "This is product 3",
+      "imageUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/30427622/2024/9/19/27cb8133-9b54-4c64-ada7-a1d1556f3b5f1726742429296-US-Polo-Assn-Polo-Collar-Pure-Cotton-Slim-Fit-T-shirt-143172-1.jpg"
+    },
+    {
+      "_id": "7",
+      "productName": "Product 1",
+      "price": 100,
+      "description": "This is product 1",
+      "imageUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/28727814/2024/4/6/c19682d1-9d4c-4d38-9451-45331bab81851712384125011ManiacMenStripedV-NeckDrop-ShoulderSleevesPocketsT-shirt1.jpg"
+    },
+    {
+      "_id": "8",
+      "productName": "Product 2",
+      "price": 150,
+      "description": "This is product 2",
+      "imageUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/19651156/2022/8/25/627b563d-a3da-438d-990f-8a1398016f571661394760567SPORTOMenYellowT-shirt1.jpg"
+    },
+    {
+      "_id": "9",
+      "productName": "Product 3",
+      "price": 200,
+      "description": "This is product 3",
+      "imageUrl": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/30427622/2024/9/19/27cb8133-9b54-4c64-ada7-a1d1556f3b5f1726742429296-US-Polo-Assn-Polo-Collar-Pure-Cotton-Slim-Fit-T-shirt-143172-1.jpg"
+    }
+  ]
+}
